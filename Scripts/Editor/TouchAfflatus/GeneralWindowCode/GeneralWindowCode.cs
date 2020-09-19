@@ -8,8 +8,6 @@ using UnityEngine.UI;
 using System.Collections.Generic;
 using System.Collections;
 
-namespace BDFramework.Editor.TouchAfflatus
-{
     internal class GeneralWindowCode
     {
         public GeneralWindowCode()
@@ -210,4 +208,3 @@ namespace BDFramework.Editor.TouchAfflatus
 
 
     }
-}
